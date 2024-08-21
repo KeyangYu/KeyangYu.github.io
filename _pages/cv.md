@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 2
 cv_pdf: Resume_Keyang.pdf
-description: 
+description:
 toc:
   sidebar: left
 ---

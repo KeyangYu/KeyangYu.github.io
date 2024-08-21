@@ -23,7 +23,8 @@ I am a tenure-track Assistant Professor of [Computer Science](https://www.marque
 My research focuses on designing data-driven computer systems with an emphasis on improving Cybersecurity and User Privacy of Cyber-Physical Systems (CPS) and the Internet of Things (IoT). During my Ph.D, I have conducted research on designing different scales of computer systems, on preventing user privacy leakage through network traffic data from IoT devices in smart facilities. My work has been spanning multiple technical fields, including Embedded Systems, Computer Networks, AI@Edge, Tiny Machine Learning and Distributed Computing. Recently, I have been looking into privacy-aware automation problems in different scales of CPS.
 
 ##### :sparkles:RA Positions Opening (Starting Spring 2025 or Fall 2025):sparkles:
-I'm looking for one or two motivated PhD students with full RA support at Marquette CS. If your are interested in: 
+
+I'm looking for one or two motivated PhD students with full RA support at Marquette CS. If your are interested in:
 
 (1) Computer Systems: Operating Systems, Embedded Systems, Distributed Computing Systems;
 
@@ -33,4 +34,4 @@ I'm looking for one or two motivated PhD students with full RA support at Marque
 
 (4) CyberSecurity: Network Security, User Privacy,
 
-Plase feel free to email me with your CV and transcripts. 
+Plase feel free to email me with your CV and transcripts.
