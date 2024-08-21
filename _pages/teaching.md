@@ -1,12 +1,28 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Marquette University
+##### Fall 2024
+COSC 6280 Advanced Computer Security
 
-Organize your courses by years, topics, or universities, however you like!
+----------
+
+#### Colorado School of Mines
+##### Spring 2023 
+CSCI 598 CSCI 477 Game Development (TA)
+##### Fall 2022
+CSCI 422 Operating Systems (TA)
+
+----------
+
+#### Florida International University
+COP 4610 COP 5614 Operating Systems (TA)
+
+COP 4710 Database Management (TA)
+
