@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a tenure-track Assistant Professor of [Computer Science](https://www.marquette.edu/computer-science/) at [Klingler College of Arts and Science](https://www.marquette.edu/arts-sciences/), [Marquette University](https://www.marquette.edu/). I received my Ph.D from [Colorado School of Mines](https://www.mines.edu/) in 2024 under the supervision of Professor [Dong Chen](https://people.mines.edu/dongchen/).
+I am a tenure-track Assistant Professor at [Department of Computer Science](https://www.marquette.edu/computer-science/), [Klingler College of Arts and Science](https://www.marquette.edu/arts-sciences/), [Marquette University](https://www.marquette.edu/). I received my Ph.D from [Colorado School of Mines](https://www.mines.edu/) in 2024 under the supervision of Professor [Dong Chen](https://people.mines.edu/dongchen/).
 
 My research focuses on designing data-driven computer systems with an emphasis on improving Cybersecurity and User Privacy of Cyber-Physical Systems (CPS) and the Internet of Things (IoT). During my Ph.D, I have conducted research on designing different scales of computer systems, on preventing user privacy leakage through network traffic data from IoT devices in smart facilities. My work has been spanning multiple technical fields, including Embedded Systems, Computer Networks, AI@Edge, Tiny Machine Learning and Distributed Computing. Recently, I have been looking into privacy-aware automation problems in different scales of CPS.
 
@@ -34,4 +34,4 @@ I'm looking for one or two motivated PhD students with full RA support at Marque
 
 (4) CyberSecurity: Network Security, User Privacy,
 
-Plase feel free to email me with your CV and transcripts.
+Please feel free to email me with your CV and transcripts.
